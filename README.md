@@ -2,6 +2,7 @@
 </br>
 <h2>Technologies used:</h2>
 </br>
+
 - Go
 - Apache Kafka
 - Docker
